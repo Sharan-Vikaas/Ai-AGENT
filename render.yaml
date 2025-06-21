@@ -2,7 +2,7 @@ services:
   - type: web
     name: malaary-n8n
     env: docker
-    repo: https://github.com/YOUR_USERNAME/Ai-Agent
+    repo: https://github.com/Sharan-Vikaas/Ai-AGENT
     plan: free
     branch: main
     dockerContext: .
